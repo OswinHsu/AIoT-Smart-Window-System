@@ -22,6 +22,19 @@ The system integrates multiple sensors and communication modules to achieve auto
 - Pixetto Voice Recognition Module
 - HC-05 Bluetooth Module
 - I2C LCD Display
+- ## Wiring Diagram
+
+### Humidity Monitoring Module
+
+![Humidity Module](humidity_module.png)
+
+### Voice Recognition Module
+
+![Pixetto Module](pixetto_module.png)
+
+### Bluetooth Control Module
+
+![Bluetooth Module](bluetooth_module.png)
 
 ## System Functions
 
