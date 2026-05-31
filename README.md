@@ -6,6 +6,16 @@ This project implements an AIoT Smart Window System using Arduino.
 
 The system integrates multiple sensors and communication modules to achieve automatic window control, voice control, and Bluetooth remote control.
 
+## Project Photos
+
+### Front View
+
+![Front View](smart_window_front.png)
+
+### Angle View
+
+![Angle View](smart_window_angle.png)
+
 ## Features
 
 - Real-time temperature and humidity monitoring
